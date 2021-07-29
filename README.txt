@@ -1,3 +1,8 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3441adfe-2d82-415a-9dd1-ff2b21620988/deploy-status)](https://app.netlify.com/sites/namaurice22/deploys)
+
+
+
+
 Big Picture by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
